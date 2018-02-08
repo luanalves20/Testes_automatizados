@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="My test suite" preserve-order="true">
+    <suite-files>
+        <suite-file path="test-xml/LocacaoNacional.xml"></suite-file>
+<!--         <suite-file path="test-xml/LocacaoInternacional.xml"></suite-file> -->
+<!--         <suite-file path="test-xml/LocacaoOpcional.xml"></suite-file> -->
+<!--         <suite-file path="test-xml/LocacaoHoraExcedente.xml"></suite-file> -->
+<!--         <suite-file path="test-xml/LocacaoTaxaRetorno.xml"></suite-file> -->
+    </suite-files>
+</suite>

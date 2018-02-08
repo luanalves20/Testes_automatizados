@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Locacao Nacional]">
+  <test name="Locacao Nacional(failed)">
+    <classes>
+      <class name="com.rentcars.site.LocacaoNacional">
+        <methods>
+          <include name="locacaoNacional"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.rentcars.site.LocacaoNacional -->
+    </classes>
+  </test> <!-- Locacao Nacional(failed) -->
+</suite> <!-- Failed suite [Locacao Nacional] -->

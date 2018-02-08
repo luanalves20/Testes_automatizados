@@ -1,0 +1,14 @@
+07/02/2018 14:30:59 --> Reserva com opcional confirmada. Código: 9YKDNPF
+07/02/2018 14:34:39 --> Reserva com opcional confirmada. Código: X8QXWM6
+07/02/2018 14:52:19 --> Reserva nacional confirmada. Código: FKC6FKM
+07/02/2018 14:53:37 --> Reserva com hora excedente confirmada. Código: Q527ZHW
+07/02/2018 14:54:25 --> Reserva com taxa de retorno confirmada. Código: 8MAYPYD
+07/02/2018 15:05:55 --> Reserva nacional confirmada. Código: N4LH8KF
+07/02/2018 15:08:06 --> Reserva com opcional confirmada. Código: KCX6R2E
+07/02/2018 15:08:56 --> Reserva com hora excedente confirmada. Código: EQJ84F2
+07/02/2018 15:09:36 --> Reserva com taxa de retorno confirmada. Código: 2R8BMLD
+07/02/2018 15:16:25 --> Reserva nacional confirmada. Código: QCHT4BG
+07/02/2018 15:17:42 --> Reserva internacional confirmada. Código: J4DJ2KH
+07/02/2018 15:18:22 --> Reserva com opcional confirmada. Código: 43KBJ6A
+07/02/2018 15:18:58 --> Reserva com hora excedente confirmada. Código: Q527ZHW
+08/02/2018 09:19:10 --> Reserva nacional confirmada. Código: 4KZYDTK

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Locacao Internacional">
+	<test name="Locacao Internacional">
+		<classes>
+			<class name="com.rentcars.site.LocacaoInternacional" />
+		</classes>
+	</test>
+</suite>

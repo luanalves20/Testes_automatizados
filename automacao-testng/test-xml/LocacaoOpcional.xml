@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Locacao Opcional">
+	<test name="Locacao Opcional">
+		<classes>
+			<class name="com.rentcars.site.LocacaoOpcional" />
+		</classes>
+	</test>
+</suite>
